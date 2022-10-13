@@ -31,10 +31,10 @@ cd XCUITest-Lesson-1-Introduction
 2. Open the project in XCode
 3. Click on the Test Navigator icon in the left navigation pane
 
-<img src="https://i.imgur.com/HgpG590.png"/>
+<img src="https://i.imgur.com/HgpG590.png" height="500" width="500"/>
 
 4. Click the Play icon next to the individual test under <b>Lesson1_IntroductionUITests</b> to run just that test.
 
-<img src="https://i.imgur.com/dyAbFxh.png"/>
+<img src="https://i.imgur.com/dyAbFxh.png" height="500" width="500"/>
 
 5. If you want to run all the tests you can click the Play icon beside <b>Lesson1_IntroductionUITests</b>
